@@ -20,13 +20,14 @@
   management ‑ backup and restore on demand.
   I support other departments ‑ HR, Controlling, ATM OPS Room ‑ with various software tools that I have
   developed:
-  OLDI messages filter for flight data officers
-  digital navigation tool for FISO and ATCO selection
-  Route charge calculator for Controlling Department
-  Open Glider Network FLARM ‑ data proxy for the backup system
-  Flight Plan Data Proxy
-  Radar Data Proxy
-  Radar Data Converter for synthetic training device
+    - OLDI messages filter for flight data officers 
+    - digital navigation tool for FISO and ATCO selection
+    - Route charge calculator for Controlling Department
+    - Open Glider Network FLARM ‑ data proxy for the backup system,
+    - Flight Plan Data Proxy - for backup systems,
+    - Radar Data Proxy - for backup systems and various internal applications,
+    - Radar Data Converter for synthetic training device
+  
   I develop with the following computer programming languages:
     - C ‑ expert [backend/tools/drivers/servers]
     - Perl ‑ intermediate [backend/tools]

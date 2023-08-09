@@ -4,7 +4,7 @@
 - 📫 How to reach me: [email](mailto:gabor.zelenak@hungarocontrol.hu) ...
 
 ### Gists and else...
-[Dynamic Vector DataType and Library](https://gist.github.com/eurocat2k/66f58fc608f170c98c2f09224e0d0f01)
+- Dynamic Vector DataType and Library in C [here](https://gist.github.com/eurocat2k/66f58fc608f170c98c2f09224e0d0f01)
 
 ### Working experiences
 - Technical Supervisor @LRI, Budapest [**1998-2000**]

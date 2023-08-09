@@ -3,6 +3,9 @@
 - 🌱 I’m currently coding various utilities and applications related to the ATM industry ...
 - 📫 How to reach me: [email](mailto:gabor.zelenak@hungarocontrol.hu) ...
 
+### Gists and else...
+[Dynamic Vector DataType and Library](https://gist.github.com/eurocat2k/66f58fc608f170c98c2f09224e0d0f01)
+
 ### Working experiences
 - Technical Supervisor @LRI, Budapest [**1998-2000**]
 

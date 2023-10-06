@@ -62,16 +62,17 @@
 ### Sample projects
 
 <div style="display:flex;flex-wrap:wrap; align-items:center;justify-content:center;width:100vw;">
-  <div style="padding: 20px">
-    <img src="assets/img/billinv30.png" alt="Route Charge Application" style="width:50%;"/>
+  <div style="padding: 20px;display:flex;flex-direction:column;">
+    <img style="margin-bottom: 10px;" src="assets/img/billinv30.png" alt="Route Charge Application" style="width:50%;"/>
+    
   </div>
-  <div style="padding: 20px">
-    <img src="assets/img/isabaro.PNG" alt="Altitude Calculator Application" style="width:50%;"/>
+  <div style="padding: 20px;display:flex;flex-direction:column;">
+    <img style="margin-bottom: 10px;" src="assets/img/isabaro.PNG" alt="Altitude Calculator Application" style="width:50%;"/>
   </div>
   <div style="padding: 20px" align="center">
-    <img src="assets/img/oldifilter.PNG" alt="OLDI Filter Application" style="width:50%;"/>
+    <img style="margin-bottom: 10px;" src="assets/img/oldifilter.PNG" alt="OLDI Filter Application" style="width:50%;"/>
   </div>
-  <div style="padding: 20px">
-    <img src="assets/img/webiode.PNG" alt="Radar Window Application" style="width:200px;"/>
+  <div style="padding: 20px;display:flex;flex-direction:column;">
+    <img style="margin-bottom: 10px;" src="assets/img/webiode.PNG" alt="Radar Window Application" style="width:50%;"/>
   </div>
 </div>

@@ -63,19 +63,19 @@
 
 <div style="display:flex;flex-wrap:wrap; align-items:center;justify-content:center;width:100vw;">
   <div style="padding: 20px;display:flex;flex-direction:column;" align="center">
-    <img style="margin-bottom: 10px;" src="assets/img/billinv30.png" alt="Route Charge Application" style="width:50%;"/>
     <div style="width:100%;text-align:center;">Route Charge Application's Web UI</div>
+    <img style="margin-bottom: 10px;" src="assets/img/billinv30.png" alt="Route Charge Application" style="width:50%;"/>
   </div>
   <div style="padding: 20px;display:flex;flex-direction:column;" align="center">
-    <img style="margin-bottom: 10px;" src="assets/img/isabaro.PNG" alt="Altitude Calculator Application" style="width:50%;"/>
     <div style="width:100%;text-align:center;">Altitude Calculator Application's Web UI</div>
+    <img style="margin-bottom: 10px;" src="assets/img/isabaro.PNG" alt="Altitude Calculator Application" style="width:50%;"/>
   </div>
   <div style="padding: 20px" align="center">
-    <img style="margin-bottom: 10px;" src="assets/img/oldifilter.PNG" alt="OLDI Filter Application" style="width:50%;"/>
     <div style="width:100%;text-align:center;">OLDI Filter Application's Web UI</div>
+    <img style="margin-bottom: 10px;" src="assets/img/oldifilter.PNG" alt="OLDI Filter Application" style="width:50%;"/>
   </div>
   <div style="padding: 20px;display:flex;flex-direction:column;" align="center">
-    <img style="margin-bottom: 10px;" src="assets/img/webiode.PNG" alt="Radar Window Application" style="width:50%;"/>
     <div style="width:100%;text-align:center;">Radar Window Application's Web UI</div>
+    <img style="margin-bottom: 10px;" src="assets/img/webiode.PNG" alt="Radar Window Application" style="width:50%;"/>
   </div>
 </div>

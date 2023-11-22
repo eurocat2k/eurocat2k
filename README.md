@@ -6,6 +6,7 @@
 ### Gists and else...
 - Dynamic Vector DataType and Library in C [here](https://gist.github.com/eurocat2k/66f58fc608f170c98c2f09224e0d0f01)
 - C pointer check [here](https://gist.github.com/eurocat2k/494095ed5dd0fa7c5fc1d34aeba2a745)
+- Public [Gists](https://gist.github.com/eurocat2k/) 
 
 ### Working experiences
 - Technical Supervisor @LRI, Budapest [**1998-2000**]

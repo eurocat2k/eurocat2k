@@ -38,6 +38,7 @@
     - Perl ‑ intermediate [backend/tools]
     - NodeJS ‑ intermediate [frontend/backend]
     - PHP, HTML, CSS ‑ intermediate [frontend]
+    - Ada [backend]
 
 - ATSEP OJTI and classroom instructor @HungaroControl, Budapest [**2006-Present**]
 

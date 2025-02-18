@@ -30,7 +30,7 @@
     - Route charge calculator for Controlling Department (C,JS,Perl)
     - Open Glider Network FLARM ‑ data proxy for the backup system (C),
     - Flight Plan Data Proxy - for backup systems (C),
-    - Radar Data Proxy - for backup systems and various internal applications,
+    - Radar Data Proxy - for backup systems and various internal applications (C,Ada),
     - Radar Data Converter for synthetic training device (C,Ada),
     - Radar Data Converter for backup systems (C),
     - QNH data service - METAR/TAF etc. parser (C,Ada),

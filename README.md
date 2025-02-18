@@ -81,4 +81,20 @@
     <div style="width:100%;text-align:center;">Radar Window Application's Web UI</div>
     <img style="margin-bottom: 10px;" src="assets/img/webiode.PNG" alt="Radar Window Application" style="width:50%;"/>
   </div>
+  <div style="padding: 20px;display:flex;flex-direction:column;" align="center">
+    <div style="width:100%;text-align:center;">Digital Navigation Tool</div>
+    <img style="margin-bottom: 10px;" src="assets/img/https://student_map_1.PNG" alt="Student Map 1" style="width:50%;"/>
+    <img style="margin-bottom: 10px;" src="assets/img/https://student_map_2.PNG" alt="Student Map 2" style="width:50%;"/>
+    <img style="margin-bottom: 10px;" src="assets/img/https://student_map_3.PNG" alt="Student Map 3" style="width:50%;"/>
+    <img style="margin-bottom: 10px;" src="assets/img/https://student_map_4.PNG" alt="Student Map 4" style="width:50%;"/>
+    <img style="margin-bottom: 10px;" src="assets/img/https://student_map_5.PNG" alt="Student Map 5" style="width:50%;"/>
+    <img style="margin-bottom: 10px;" src="assets/img/https://student_map_6.PNG" alt="Student Map 6" style="width:50%;"/>
+    <img style="margin-bottom: 10px;" src="assets/img/https://student_map_7.PNG" alt="Student Map 7" style="width:50%;"/>
+    <img style="margin-bottom: 10px;" src="assets/img/https://student_map_8.PNG" alt="Student Map 8" style="width:50%;"/>
+    <img style="margin-bottom: 10px;" src="assets/img/https://student_map_9.PNG" alt="Student Map 9" style="width:50%;"/>
+    <img style="margin-bottom: 10px;" src="assets/img/https://student_map_10.PNG" alt="Student Map 10" style="width:50%;"/>
+    <img style="margin-bottom: 10px;" src="assets/img/https://student_map_11.PNG" alt="Student Map 11" style="width:50%;"/>
+    <img style="margin-bottom: 10px;" src="assets/img/https://student_map_12.PNG" alt="Student Map 12" style="width:50%;"/>
+    <img style="margin-bottom: 10px;" src="assets/img/https://student_map_13.PNG" alt="Student Map 13" style="width:50%;"/>
+  </div>
 </div>

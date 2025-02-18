@@ -25,20 +25,23 @@
   management ‑ backup and restore on demand.
   I support other departments ‑ HR, Controlling, ATM OPS Room ‑ with various software tools that I have
   developed:
-    - OLDI messages filter for flight data officers 
-    - digital navigation tool for FISO and ATCO selection
-    - Route charge calculator for Controlling Department
-    - Open Glider Network FLARM ‑ data proxy for the backup system,
-    - Flight Plan Data Proxy - for backup systems,
+    - OLDI messages filter for flight data officers (NodeJS)
+    - digital navigation tool for FISO and ATCO selection (NodeJS,C)
+    - Route charge calculator for Controlling Department (C,JS,Perl)
+    - Open Glider Network FLARM ‑ data proxy for the backup system (C),
+    - Flight Plan Data Proxy - for backup systems (C),
     - Radar Data Proxy - for backup systems and various internal applications,
-    - Radar Data Converter for synthetic training device
+    - Radar Data Converter for synthetic training device (C,Ada),
+    - Radar Data Converter for backup systems (C),
+    - QNH data service - METAR/TAF etc. parser (C,Ada),
+    - interactive FIS Information Pages - (HTML,JS,CSS)
   
   I develop with the following computer programming languages:
     - C ‑ expert [backend/tools/drivers/servers]
     - Perl ‑ intermediate [backend/tools]
     - NodeJS ‑ intermediate [frontend/backend]
     - PHP, HTML, CSS ‑ intermediate [frontend]
-    - Ada [backend]
+    - Ada - advanced [backend]
 
 - ATSEP OJTI and classroom instructor @HungaroControl, Budapest [**2006-Present**]
 

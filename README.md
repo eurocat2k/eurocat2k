@@ -111,5 +111,7 @@
     <img style="margin-bottom: 10px;" src="assets/img/student_map_12.png" alt="Student Map 12" style="width:50%;"/>
     <div style="width:100%;text-align:center;">Digital Navigation Tool: SUMMARIZE ALL EVENTS AT THE CLOSING WINDOW</div>
     <img style="margin-bottom: 10px;" src="assets/img/student_map_13.png" alt="Student Map 13" style="width:50%;"/>
+    <div style="width:100%;text-align:center;">Digital Navigation Tool: RESULT SHEET (PDF)</div>
+    <img style="margin-bottom: 10px;" src="assets/img/RESULTPDF.PNG" alt="RESULT PDF" style="width:50%;"/>
   </div>
 </div>

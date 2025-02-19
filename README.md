@@ -82,7 +82,7 @@
   </div>
   <div style="padding: 20px;display:flex;flex-direction:column;" align="center">
     <div style="width:100%;text-align:center;">Radar Window Application's Web UI</div>
-    <img style="margin-bottom: 10px;" src="assets/img/webiode.PNG" alt="Radar Window Application" style="width:50%;"/>
+    <img style="margin-bottom: 10px;" src="assets/img/webiode.png" alt="Radar Window Application" style="width:50%;"/>
   </div>
   <div style="padding: 20px;display:flex;flex-direction:column;" align="center">
     <div style="width:100%;text-align:center;">Digital Navigation Tool: MAP</div>

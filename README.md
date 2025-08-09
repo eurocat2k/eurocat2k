@@ -41,7 +41,7 @@
     - Perl ‑ intermediate [backend/tools]
     - NodeJS ‑ intermediate [frontend/backend]
     - PHP, HTML, CSS ‑ intermediate [frontend]
-    - Ada - advanced [backend]
+    - Ada - advanced [backend/tools]
 
 - ATSEP OJTI and classroom instructor @HungaroControl, Budapest [**2006-Present**]
 
@@ -53,6 +53,8 @@
 
   As an assessor I deliver competency checks for ATM technical staff ‑ supervisors and maintenance personnel.
   
+- ATM Systems Expert [**2013-Present**]
+
 - Skills
   
   **Unix** (*xBSD: FreeBSD, NetBSD, OpenBSD*) tools/programming/integartion experienced

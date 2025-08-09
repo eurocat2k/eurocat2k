@@ -11,7 +11,7 @@
 ### Working experiences
 - Technical Supervisor @LRI, Budapest [**1998-2000**]
 
-  I was involved in developing Eurocat ATM system (later MATIAS based on S2K core product) systems with
+  I was involved in developing Eurocat ATM system (later MATIAS based on S2K core product) systems working with
   AirSys ATM in Chessington UK. As a technical supervisor I was responsible for monitoring and controlling the ATM operational system.
   
 - ATM System Administrator @LRI/HungaroControl, Budapest [**2000-Present**]

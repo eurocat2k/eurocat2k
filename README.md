@@ -88,6 +88,10 @@
     <img style="margin-bottom: 10px;" src="assets/img/webiode.png" alt="Radar Window Application" style="width:50%;"/>
   </div>
   <div style="padding: 20px;display:flex;flex-direction:column;" align="center">
+    <div style="width:100%;text-align:center;">Sectorisation Plan Display</div>
+    <img style="margin-bottom: 10px;" src="assets/img/sectorisation.png" alt="Radar Window Application" style="width:50%;"/>
+  </div>
+  <div style="padding: 20px;display:flex;flex-direction:column;" align="center">
     <div style="width:100%;text-align:center;">Digital Navigation Tool: MAP</div>
     <img style="margin-bottom: 10px;" src="assets/img/student_map_1.PNG" alt="Student Map 1" style="width:50%;"/>
     <div style="width:100%;text-align:center;">Digital Navigation Tool: SECRET</div>

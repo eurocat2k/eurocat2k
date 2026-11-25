@@ -34,7 +34,8 @@
     - Radar Data Converter for synthetic training device (C,Ada),
     - Radar Data Converter for backup systems (C),
     - QNH data service - METAR/TAF etc. parser (C,Ada),
-    - interactive FIS Information Pages - (HTML,JS,CSS)
+    - interactive FIS Information Pages - (HTML,JS,CSS),
+    - Main ATM system's latest sectorisation plan display (C,awk,Perl,JS,HTML, CSS)
   
   I develop with the following computer programming languages:
     - C ‑ expert [backend/tools/drivers/servers]

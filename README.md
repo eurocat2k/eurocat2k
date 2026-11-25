@@ -18,7 +18,7 @@
 
   As an ATM system administrator I provide technical support for the operational and technical staff. I actively
   participate in development and site integration of the ATM system and other supporting operational systems.
-  In cooperation with ATM System Development Department and Thales System I am responsible for data
+  In cooperation with ATM System Development Department and Thales ATM I am responsible for data
   collection, data analyzing, bug tracing and reporting. As an ATM system administrator expert I participate new
   back‑up ATM system (Polaris) development and integration in cooperation with Tern Systems.
   I also work in close cooperation with ATM Operational personnel: AIRAC, off‑line parameter database update
